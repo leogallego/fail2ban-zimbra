@@ -1,2 +1,2 @@
 # fail2ban-zimbra
-zimbra filters and actions for fail2ban
+zimbra 8.0.x filters and actions for fail2ban
